@@ -1,3 +1,5 @@
+// A Kelvin weather conversion javascript program
+
 // Kelvin (base unit of temperature) is 239 K
 const kelvin = 0;
 // Converting Kelvin into celsius

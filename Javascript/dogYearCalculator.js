@@ -1,3 +1,5 @@
+// A Javascript program is convert Human years into dog years
+
 // My current human age
 const myAge = 30;
 // Early years age
